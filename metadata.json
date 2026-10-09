@@ -1,0 +1,6 @@
+{
+  "name": "Amazon.com Clone - Live Product Rebuild",
+  "description": "Pixel-accurate clone of Amazon.com featuring a comprehensive live product page rebuild with interactive gallery zoom, Buy Box, Prime delivery estimator, variant selectors, reviews, and dynamic cart checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "prompt": "node .agent-logs/capture.js --event prompt",
+    "end_of_turn": "node .agent-logs/capture.js --event end_of_turn"
+  }
+}
